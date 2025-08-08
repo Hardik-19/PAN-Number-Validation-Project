@@ -63,8 +63,8 @@ A **valid PAN number** must meet the following criteria:
 ## 📝 Output
 
 | Total records processed | Total valid PANs | Total invalid PANs | Total missing PANs |
-|-------------------------|------------------|---------------------|---------------------|
-| X                       | Y                | Z                   | W                   |
+|-------------------------|------------------|--------------------|--------------------|
+|         10000           |        3186      |         5839       |         975        |
 ---
 
 ## 💻 Tools Used
